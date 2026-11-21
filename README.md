@@ -4,8 +4,8 @@ A full-stack AI chatbot application with automatic API key failover, response ca
 
 ## 1. Live URLs
 
-- **Frontend**: _[To be updated after deployment]_
-- **Backend**: _[To be updated after deployment]_
+- **Frontend**: https://lyftr-ai-tau.vercel.app
+- **Backend**: https://lyftr-ai-7z2u.onrender.com
 
 ## 2. Run Locally
 
